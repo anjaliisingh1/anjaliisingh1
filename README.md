@@ -1,13 +1,16 @@
-<h1 align="center">Hi , I'm Anjali</h1>
+<h1 align="center">Hey<img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50">, I am Anjali Singh.</h1>
 <!-- Typing SVG -->
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Learner+from+India+💁‍♀️;And+a+Self+Motivated+Speaker+👻" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Competitive+Coder+from+India;a+self+motivated+speaker+and+a+developer.;" alt="Typing SVG" /></a>
 </p>
 
 ### Profile Views : 
   <img src="https://profile-counter.glitch.me/anjaliisingh1/count.svg" />
-<img align="right" width="450" height="450" src="https://vidhi-mody.github.io/img/contribute.gif"></a>
-##  <img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50"> About Me
+<img align="right" width="450" height="450" src="https://i.pinimg.com/originals/37/07/a4/3707a415afd4ea4ab7983e81154eaeec.gif"></a>
+
+## About me:
+
+
 - 🔭 I’m currently working on **Web and Android Development.**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
