@@ -8,13 +8,11 @@
   <img src="https://profile-counter.glitch.me/anjaliisingh1/count.svg" />
 
 ##  <img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50"> About Me
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web and Android Development.**
 
-- 🌱 I’m currently learning **Web and Android Development**
+- 🌱 I’m currently learning **Data Structure and Algorithms.**
 
 - 👯 I’m looking to collaborate on **open source.**
-
-- 💬 Ask me about **kotlin**
 
 - 📫 How to reach me **anniesingh1547@gmail.com**
 
@@ -29,3 +27,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaliisingh1" alt="anjaliisingh1" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliisingh1&show_icons=true&locale=en&layout=compact" alt="anjaliisingh1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliisingh1&show_icons=true&locale=en" alt="anjaliisingh1" /></p>
+
+
+<!--Streak-->
+<p >
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliisingh1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+<br/>
+<br/>
+
+
+
+<a href="https://github.com/anjaliisingh1/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjaliisingh1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
