@@ -6,7 +6,7 @@
 
 ### Profile Views : 
   <img src="https://profile-counter.glitch.me/anjaliisingh1/count.svg" />
-
+<img align="right" width="450" height="450" src="https://vidhi-mody.github.io/img/contribute.gif"></a>
 ##  <img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50"> About Me
 - 🔭 I’m currently working on **Web and Android Development.**
 
