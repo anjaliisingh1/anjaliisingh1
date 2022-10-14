@@ -4,11 +4,11 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Competitive+Coder+from+India;a+self+motivated+speaker+and+a+developer.;" alt="Typing SVG" /></a>
 </p>
 
-### Profile Views : 
+## <img src="https://i.gifer.com/embedded/download/7GW7.gif" width="50"> Profile Views : 
   <img src="https://profile-counter.glitch.me/anjaliisingh1/count.svg" />
 <img align="right" width="450" height="450" src="https://i.pinimg.com/originals/37/07/a4/3707a415afd4ea4ab7983e81154eaeec.gif"></a>
 
-## About me:
+## <img src="https://i.pinimg.com/originals/bf/e4/ac/bfe4ac26b35943995b31cf7a96e81706.gif" width="50"> About me:
 
 
 - 🔭 I’m currently working on **Web and Android Development.**
