@@ -4,7 +4,7 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Competitive+Coder+from+India;a+self+motivated+speaker+and+a+developer.;" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://i.gifer.com/embedded/download/7GW7.gif" width="50"> Profile Views : 
+## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50"> Profile Views : 
   <img src="https://profile-counter.glitch.me/anjaliisingh1/count.svg" />
 <img align="right" width="450" height="450" src="https://i.pinimg.com/originals/37/07/a4/3707a415afd4ea4ab7983e81154eaeec.gif"></a>
 
