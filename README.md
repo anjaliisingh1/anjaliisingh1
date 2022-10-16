@@ -47,8 +47,11 @@
 <br/>
 <br/>
 
-
 ## <img src="https://c.tenor.com/o8m3bKTsifUAAAAM/hold-on.gif" width="50">Contibutions:
+<summary>💻 GitHub Profile Stats-</summary>
+<summary>⚡ Recent GitHub Activity-</summary>
+
+
 <a href="https://github.com/anjaliisingh1/github-readme-activity-graph"><img alt="anjaliisingh1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjaliisingh1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
