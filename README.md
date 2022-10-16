@@ -1,7 +1,7 @@
 <h1 align="center">Hey<img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50">, I am Anjali Singh.</h1>
 <!-- Typing SVG by anjaliisingh1 - https://github.com/anjaliisingh1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20An%20Indian; %20 Enthusiastic%20Programmer%20;Self%20Motivated%20Speaker;Curious%20to%20learn%20new%20stuff.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20Programmer;%20Developer;%20alwz%20on%20the%20go%20to%20learn%20smth%20new.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50"> Profile Views : 
