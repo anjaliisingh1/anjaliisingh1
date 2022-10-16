@@ -30,10 +30,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaliisingh1" alt="anjaliisingh1" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliisingh1&show_icons=true&locale=en&layout=compact" alt="anjaliisingh1" /></p>
+
+
+## 📊 Github stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliisingh1&show_icons=true&locale=en" alt="anjaliisingh1" /></p>
 
-
+## 🔥 Streak stats:
 <!--Streak-->
 <p >
   <a href="https://github.com/anjaliisingh1/github-readme-streak-stats">
@@ -44,7 +46,7 @@
 <br/>
 
 
-
+## <img src="https://c.tenor.com/o8m3bKTsifUAAAAM/hold-on.gif" width="50">Contibutions:
 <a href="https://github.com/anjaliisingh1/github-readme-activity-graph"><img alt="anjaliisingh1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjaliisingh1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
