@@ -37,7 +37,7 @@
 ## 📊 Github stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliisingh1&show_icons=true&locale=en" alt="anjaliisingh1" /></p>
 
-## 🔥 Streak stats:
+## <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1623.gif" width="70">Streak stats:
 <!--Streak-->
 <p >
   <a href="https://github.com/anjaliisingh1/github-readme-streak-stats">
