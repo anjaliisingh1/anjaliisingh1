@@ -1,7 +1,7 @@
 <h1 align="center">Hey<img src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="50">, I am Anjali Singh.</h1>
-<!-- Typing SVG -->
+<!-- Typing SVG by anjaliisingh1 - https://github.com/anjaliisingh1/readme-typing-svg -->
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Competitive+Coder+from+India;a+self+motivated+speaker+and+a+developer.;" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20An%20Indian; %20 Enthusiastic%20Programmer%20;Self%20Motivated%20Speaker;Curious%20to%20learn%20new%20stuff.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50"> Profile Views : 
@@ -10,16 +10,16 @@
 
 ## <img src="https://i.pinimg.com/originals/bf/e4/ac/bfe4ac26b35943995b31cf7a96e81706.gif" width="50"> About me:
 
+- 🔭 Currently working on **Web and Android Development.**
 
-- 🔭 I’m currently working on **Web and Android Development.**
+- 🌱 Currently learning **Data Structure and Algorithms.**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
-
-- 👯 I’m looking to collaborate on **open source.**
+- 👯 Looking to collaborate on **open source.**
 
 - 📫 How to reach me **anniesingh1547@gmail.com**
 
 - ⚡ Fun fact **I laugh at the wrong time. Hehe😂**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +36,8 @@
 
 <!--Streak-->
 <p >
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliisingh1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <a href="https://github.com/anjaliisingh1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="anjaliisingh1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliisingh1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 <br/>
@@ -45,7 +45,7 @@
 
 
 
-<a href="https://github.com/anjaliisingh1/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjaliisingh1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anjaliisingh1/github-readme-activity-graph"><img alt="anjaliisingh1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjaliisingh1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
